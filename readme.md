@@ -12,11 +12,8 @@ Stay tuned for updates!
 ## 📖 Citation  
 If you find this dataset useful, please **cite our paper**:  
 
-**Graph-Based Timing Prediction at Early-Stage RTL Using Large Language Models**  
-**ASPDAC 2025**  
-**Authors:** Fahad Rahman Amik, Yousef Safari, Zhanguang Zhang, Boris Vaisband  
 
-BibTeX (if applicable):  
+BibTeX 
 ```bibtex
 @inproceedings{Amik2025GraphTiming,
   author = {Fahad Rahman Amik, Yousef Safari, Zhanguang Zhang, Boris Vaisband},
