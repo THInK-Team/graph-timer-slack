@@ -15,9 +15,13 @@ If you find this dataset useful, please **cite our paper**:
 
 BibTeX 
 ```bibtex
-@inproceedings{Amik2025GraphTiming,
-  author = {Fahad Rahman Amik, Yousef Safari, Zhanguang Zhang, Boris Vaisband},
-  title = {Graph-Based Timing Prediction at Early-Stage RTL Using Large Language Models},
-  booktitle = {Proceedings of the 30th Asia and South Pacific Design Automation Conference (ASPDAC 2025)},
-  year = {2025}
+@inproceedings{10.1145/3658617.3697742,
+author = {Amik, Fahad Rahman and Safari, Yousef and Zhang, Zhanguang and Vaisband, Boris},
+title = {Graph-Based Timing Prediction at Early-Stage RTL Using Large Language Model},
+year = {2025},
+isbn = {9798400706356},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3658617.3697742},
+doi = {10.1145/3658617.3697742},
+series = {ASPDAC '25}
 }
